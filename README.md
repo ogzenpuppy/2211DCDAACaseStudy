@@ -5,9 +5,13 @@
 Customer Question
 
 The legal team has given you a data set where each row is a claim made against the company. They would like you to answer the following questions:
+
 ● How does the number of claims differ across locations?
+
 ● What is the distribution of time to close claims?
+
 ● How does the average time to close claims differ by location?
+
 
 Submission Requirements
 
@@ -16,6 +20,7 @@ Submission Requirements
 3. You will need to use DataCamp Workspace to write up your findings and share visualizations. Use the Markdown Guide for your reference to write your report in the DataCamp Workspace.
 4. You must use the data we provide for the analysis.
 5. Use the grading rubric provided below to check your work before submitting the report.
+
 
 
 Project Task List
